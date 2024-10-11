@@ -1,0 +1,6 @@
+C:\Users\Summative1\Documents\Visual Studio 2008\Projects\Recipe_Management_System\Recipe_Management_System\obj\Release\ResolveAssemblyReference.cache
+D:\Recipe_Management_System\Recipe_Management_System\obj\Release\ResolveAssemblyReference.cache
+D:\Recipe_Management_System\Recipe_Management_System\bin\Release\Recipe_Management_System.exe
+D:\Recipe_Management_System\Recipe_Management_System\bin\Release\Recipe_Management_System.pdb
+D:\Recipe_Management_System\Recipe_Management_System\obj\Release\Recipe_Management_System.exe
+D:\Recipe_Management_System\Recipe_Management_System\obj\Release\Recipe_Management_System.pdb
